@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+.div1{
+    background-color: tomato;
+    padding: 20px 20px 40px 40px;
+    margin: 15px;
+    border: 10px solid rgb(0, 255, 64);
+    border-radius: 15px;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h3 {
+    text-shadow: 1.5px 1.5px 2px rgb(135, 247, 255) ;
+}
